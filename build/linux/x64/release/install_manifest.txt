@@ -1,0 +1,10 @@
+/home/marko/StudioProjects/predavanje/build/linux/x64/release/bundle/predavanje
+/home/marko/StudioProjects/predavanje/build/linux/x64/release/bundle/data/icudtl.dat
+/home/marko/StudioProjects/predavanje/build/linux/x64/release/bundle/lib/libflutter_linux_gtk.so
+/home/marko/StudioProjects/predavanje/build/linux/x64/release/bundle/data/flutter_assets/NOTICES.Z
+/home/marko/StudioProjects/predavanje/build/linux/x64/release/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/marko/StudioProjects/predavanje/build/linux/x64/release/bundle/data/flutter_assets/FontManifest.json
+/home/marko/StudioProjects/predavanje/build/linux/x64/release/bundle/data/flutter_assets/AssetManifest.json
+/home/marko/StudioProjects/predavanje/build/linux/x64/release/bundle/data/flutter_assets/version.json
+/home/marko/StudioProjects/predavanje/build/linux/x64/release/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/marko/StudioProjects/predavanje/build/linux/x64/release/bundle/lib/libapp.so
